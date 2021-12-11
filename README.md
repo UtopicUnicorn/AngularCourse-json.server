@@ -1,6 +1,7 @@
 # AngularCourse-json.server
 
 #Install json server
+
 npm install -g json-server
 
 #Run json server
